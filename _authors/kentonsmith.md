@@ -3,7 +3,7 @@ name: Kenton Smith
 username: kenton
 bio: "Hi, I'm Kenton, the site owner"
 site: http://kentonsmith.net
-avatar: johndoe.png
+avatar: prof_profile.jpg
 email: kenton@kentonsmith.net
 social:
     - title: "linkedin"
