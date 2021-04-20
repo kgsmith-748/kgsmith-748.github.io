@@ -1,13 +1,14 @@
 ---
 layout: post
-cover: 'assets/images/cover2.jpg'
-navigation: True
-title:  The times, they are a changin'
-categories: general security passwords
-subclass: post
-tags: gensec
-logo: 'assets/images/home.png'
+title:  "The Times They Are a Changin'"
+summary: "World Password Day"
 author: kenton
+date: '2019-05-02 14:35:23 +0530'
+category: passwords
+thumbnail: /assets/img/posts/code.jpg
+keywords: passwords, awareness, security, everyone
+permalink: /blog/times-changin/
+usemathjax: true
 ---
 
 ## World Password Day
