@@ -1,13 +1,14 @@
 ---
 layout: post
-cover: 'assets/images/cover3.jpg'
-navigation: True
-title:  It's About Privacy, Not Morality
-categories: privacy breaches data
-subclass: post
-tags: breach
-logo: 'assets/images/home.png'
-author: kenton
+title:  "It's About Privacy Not Morality"
+summary: "The Ashley Madison Breach"
+author: kentonsmith
+date: '2019-05-02 14:35:23 +0530'
+category: breaches
+thumbnail: /assets/img/cover2.jpg
+keywords: passwords, awareness, security, everyone
+permalink: /blog/about-privacy/
+usemathjax: true
 ---
 
 ## Ashley Madison

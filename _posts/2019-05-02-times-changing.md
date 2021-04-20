@@ -2,7 +2,7 @@
 layout: post
 title:  "The Times They Are a Changin'"
 summary: "World Password Day"
-author: kenton
+author: kentonsmith
 date: '2019-05-02 14:35:23 +0530'
 category: passwords
 thumbnail: /assets/img/posts/code.jpg
