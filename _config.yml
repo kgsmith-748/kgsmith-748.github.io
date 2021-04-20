@@ -1,7 +1,7 @@
 title: Kenton Smith
 subtitle: A Blog of Various IT And Security Stuff
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts, Links, and Tidbits on IT, Security, and Technology in General
+  Thoughts, Links, and Tidbits on IT, Security, and Technology
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,21 +22,21 @@ author_bio: Hi, my name is Kenton Smith. I'm a Cybersecurity consultant in Calga
 author_email: "kenton@kentonsmith.net"
 author_location: Canada
 #author_website_url: "https://sujaykundu.com"
-typewrite-text: Thoughts, Links, and Tidbits on IT, Security, and Technology in General
+typewrite-text: Thoughts, Links, and Tidbits on IT, Security, and Technology
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: KGS Cybersecurity Consultants
               company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              company_url: https://kgssec.com
+              designation: President & Prinicipal Consultant
+              description: vCISO and General Cybersecurity Program Management, Improvement, and Advisory
               visibility: true
-            - company_name: Microsoft
+            - company_name: SANS Institute
               company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              company_url: https://san.org
+              designation: Instructor
+              description: Instructor for MGT512, SEC440, and SEC566
               visibility: true
 
 # Education
@@ -111,7 +111,7 @@ paginate_path: "/blog/page/:num/"
 
 collections:
   products:
-    output: true
+    output: false
   authors:
     output: true
 
