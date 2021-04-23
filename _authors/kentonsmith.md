@@ -3,7 +3,7 @@ kentonsmith:
    name: Kenton Smith
    username: kentonsmith
    site: http://kentonsmith.net
-   avatar: prof_profil.jpg
+   avatar: prof_profile.jpg
    bio: "Hi, I'm Kenton, a cybersecurity consultant in Calgary, Canada"
    email: kenton@kentonsmith.net
    social:
@@ -13,6 +13,6 @@ kentonsmith:
         url: "https://www.twitter.com/kentons"
       - title: "instagram"
         url: "https://instagram.com/smithkenton"
-       - title: "flickr"
+      - title: "flickr"
         url: "https://flickr.com/ks_focalpoint"
 ---
