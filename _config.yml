@@ -16,7 +16,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: prof_profile.jpr
+author_logo: profile.png
 author: Kenton Smith
 author_bio: Hi, my name is Kenton Smith. I'm a Cybersecurity consultant in Calgary, Canada
 author_email: "kenton@kentonsmith.net"
