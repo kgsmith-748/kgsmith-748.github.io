@@ -4,7 +4,7 @@ kentonsmith:
    username: kentonsmith
    site: http://kentonsmith.net
    avatar: prof_profil.jpg
-   bio: "I'm Kenton, a cybersecurity consultant in Calgary, Canada"
+   bio: "Hi, I'm Kenton, a cybersecurity consultant in Calgary, Canada"
    email: kenton@kentonsmith.net
    social:
       - title: "linkedin"
